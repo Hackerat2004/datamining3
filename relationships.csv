@@ -1,0 +1,12 @@
+start_id,end_id,type
+disease_金属取代碳水化合物酶,check_卤化物离子探针研究,RELATED_TO
+symptom_溶酶体水解酶,disease_成纤维细胞,RELATED_TO
+symptom_肌红蛋白,disease_血红蛋白肽链,RELATED_TO
+symptom_肾上腺髓质成熟,disease_吗啡的影响,RELATED_TO
+symptom_体外,disease_普鲁卡因,RELATED_TO
+symptom_体外,disease_异烟肼,RELATED_TO
+symptom_体外,check_肝微粒体酰胺酶酯酶,RELATED_TO
+disease_普鲁卡因,check_肝微粒体酰胺酶酯酶,RELATED_TO
+disease_异烟肼,check_肝微粒体酰胺酶酯酶,RELATED_TO
+symptom_犬,disease_肝微粒体,RELATED_TO
+symptom_犬,disease_毒毛苷,RELATED_TO
